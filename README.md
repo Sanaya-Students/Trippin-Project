@@ -12,7 +12,7 @@ Trippin adalah sebuah produk aplikasi sistem informasi pariwisata yang bertujuan
 - 1 Kali Proses Login
 
 ## Fitur Kunci
-- 1 Kali Proses Login: Kami menggunakan library java UUID untuk membuat token unik setiap pengguna yang telah melakukan proses login, sehingga setiap kali aplikasi digunakan pengguna tidak perlu melakukan proses login kembali.
+- 1 Kali Proses Login: Kami menggunakan library java UUID untuk membuat token unik setiap pengguna yang telah melakukan proses login, sehingga setiap kali aplikasi digunakan atau dijalankan, pengguna tidak perlu melakukan proses login kembali.
 - Search History: Pada fitur pencarian ini kami menerapkan beberapa metode antara lain pencatatan hasil telusur pengguna, delete histori berdasarkan id histori dan delete keseluruhan, serta matching kata yang ada pada histori dengan kata baru yang diinputkan pengguna.
 - Change Password: Fitur ini memungkinkan pengguna untuk mengubah password akun yang dimiliki untuk tetap menjaga keamanan akun pribadi.
 
