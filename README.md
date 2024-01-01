@@ -3,7 +3,7 @@ Trippin adalah sebuah produk aplikasi sistem informasi pariwisata yang bertujuan
 
 ## Fitur Pada Aplikasi
 - Login
-- Signin
+- SignUp
 - Logout
 - Search
 - History Search & Selete Search
