@@ -16,6 +16,9 @@ Trippin adalah sebuah produk aplikasi sistem informasi pariwisata yang bertujuan
 - Search History: Pada fitur pencarian ini kami menerapkan beberapa metode antara lain pencatatan hasil telusur pengguna, delete histori berdasarkan id histori dan delete keseluruhan, serta matching kata yang ada pada histori dengan kata baru yang diinputkan pengguna.
 - Change Password: Fitur ini memungkinkan pengguna untuk mengubah password akun yang dimiliki untuk tetap menjaga keamanan akun pribadi.
 
+## Requirment Device Emulator
+Project ini dibuat dengan menggunakan compileSdk 34, minSdk 26 dan targetSdk 33, agar semua fitur dan animasi dapat berjalan sesuai dengan program yang telah dibuat maka gunakan device dengan versi android minimum 8.0 (Code Name: Oreo), namun lebih baik lagi jika menggunakan versi android 13 agar sesuai dengan targetSdk yang ditentukan yaitu 33.
+
 ## Keterangan Tambahan
 Pada repository ini telah dicantumkan juga file database yang digunakan, nama filenya adalah "trippin" kemudian jika repository ini di clone atau di download dengan format .zip ubahlah nama parent foldernya dengan nama "FP" agar meminimalisir kemungkinan error pada program atau aplikasi tidak dapat dijalankan. Untuk username dan password yang digunakan saat proses login dapat dilihat pada file database "trippin" dengan cara membukanya melalui aplikasi SQLiteStudio.
 
