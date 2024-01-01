@@ -16,5 +16,8 @@ Trippin adalah sebuah produk aplikasi sistem informasi pariwisata yang bertujuan
 - Search History: Pada fitur pencarian ini kami menerapkan beberapa metode antara lain pencatatan hasil telusur pengguna, delete histori berdasarkan id histori dan delete keseluruhan, serta matching kata yang ada pada histori dengan kata baru yang diinputkan pengguna.
 - Change Password: Fitur ini memungkinkan pengguna untuk mengubah password akun yang dimiliki untuk tetap menjaga keamanan akun pribadi.
 
+## Keterangan Tambahan
+Pada repository ini telah dicantumkan juga file database yang digunakan, nama filenya adalah "trippin" kemudian jika repository ini di clone atau di download dengan format .zip ubahlah nama parent foldernya dengan nama "FP" agar meminimalisir kemungkinan error pada program atau aplikasi tidak dapat dijalankan. Untuk username dan password yang digunakan saat proses login dapat dilihat pada file database "trippin" dengan cara membukanya melalui aplikasi SQLiteStudio.
+
 ## Demo Aplikasi
 ![Demo_gif](https://github.com/SanayaAlmatin/Trippin-Project/assets/131599314/6ca384b1-79ac-4e19-9faf-771aba2bd96a)
