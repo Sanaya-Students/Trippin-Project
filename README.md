@@ -1,6 +1,11 @@
 # Tentang-Trippin
 Trippin adalah sebuah produk aplikasi sistem informasi pariwisata yang bertujuan untuk memudahkan banyak orang dalam mengakses semua informasi destinasi wisata alam yang ada di beberapa kota di Indonesia, semua informasi kami kumpulkan di satu tempat sehingga orang yang ingin berlibur tidak perlu lagi membuang waktu mereka untuk membuka banyak aplikasi maupun website demi sebatas mencari beberapa keping informasi tempat yang akan dituju, sekaligus aplikasi ini juga ditujukkan untuk memenuhi tugas besar matakuliah Bahasa Pemrograman II dan target pencapaian jangka panjang kami adalah aplikasi ini dapat diunduh melalui Google Play Store.
 
+## Tim
+- Muchamad Sanaya Almatin (22.12.2604)
+- Alya Wahyuning Syahbani (22.12.2595)
+- Alfian Ramadhan (22.12.2570)
+
 ## Fitur Pada Aplikasi
 - Login
 - SignUp
